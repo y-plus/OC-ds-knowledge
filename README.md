@@ -18,6 +18,10 @@ Graphics
   * [plotly](https://plotly.com/python/) Cool interactive plot
   * [missingno](https://github.com/ResidentMario/missingno) Fastest way to see the data completion in a pandas dataframe.
   
+Exploratory analysis
+----------------------
+  * [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling)
+  
 Geography
 -----------
   * [geopandas](https://geopandas.org/) Really usefull for geographical data.
