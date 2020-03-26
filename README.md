@@ -26,14 +26,14 @@ Geography
 Final presentation and prototyping
 ------------------------------------
   * [streamlit](https://www.streamlit.io/) Fast prototype building.
-  * [RISE](https://rise.readthedocs.io/en/stable/) Transform yout notebooks in awesome presentation.
+  * [RISE](https://rise.readthedocs.io/en/stable/) Transform your notebooks in awesome presentation.
   
 Tools
 ------
   * [Jupyter](https://jupyter.org/) Notebooks and more with Jupyter lab!
   * [virtualenv](https://python-guide-pt-br.readthedocs.io/fr/latest/dev/virtualenvs.html) Organize your libraries for each project.
   * [cookiecutter](https://github.com/cookiecutter/cookiecutter) :heart: Create a clean repository for new project with cool features !
-
+     *  List of available templates [cookiecutter-templates](http://cookiecutter-templates.sebastianruml.name/)
 
 Courses and tutorials
 ----------------------
