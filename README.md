@@ -18,10 +18,6 @@ Graphics
   * [plotly](https://plotly.com/python/) Cool interactive plot
   * [missingno](https://github.com/ResidentMario/missingno) Fastest way to see the data completion in a pandas dataframe.
   
-Exploratory analysis
-----------------------
-  * [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling)
-  
 Geography
 -----------
   * [geopandas](https://geopandas.org/) Really usefull for geographical data.
@@ -42,7 +38,7 @@ Tools
 Courses and tutorials
 ----------------------
   * [Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.amazon.fr/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras+%26+TensorFlow&qid=1585234967&sr=8-1)
-
+  * [Deep Learning with Python](https://www.amazon.fr/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 
 How to contribute
 --------------------
